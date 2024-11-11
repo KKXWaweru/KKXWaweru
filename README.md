@@ -4,9 +4,9 @@
 👨‍💻 About Me
 
 - 🎓 Currently Studying: Computer Science
-- 🌱 Learning Interests: Algorithms, Machine Learning, Web Development, Cybersecurity
-- 🔍 Research Focus: Exploring the effects of technology on human behavior and society
-- 💡 Hobbies: Coding, Gaming, Sports, Music, and exploring the latest in AI and tech news
+- 🌱 Learning Interests: Algorithms, Machine Learning, Web Development, Cybersecurity.
+- 🔍 Research Focus: Exploring the effects of technology on human behavior and society.
+- 💡 Hobbies: Coding, Gaming, Sports, Music, and exploring the latest in AI and tech news.
 
 🔭 My Projects
 
